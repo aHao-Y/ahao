@@ -1,4 +1,4 @@
-<h2><font color=#ECFFFF> Hello! I'm ahao 你好！我是阿豪👋</font></h2>
+<h2><font color=#ECFFFF> Hello! I'm ahao👋</font></h2>
 
 * 分享技术类博客：[📖关于前端网络安全、前端缓存、框架原理、JavaScript知识、前端工程化、推荐库👽]()
 * ERP记录类博客：(https://ahao-olo.top/)
@@ -17,13 +17,27 @@
 <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="30" height="35"/></a>
 <a href="https://cn.vitejs.dev/guide/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="35" height="37"/></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/></a>
+
+
+
 
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/xTXBs9xW/css3.png" alt="CSS" width="35" height="38"/></a>
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="38"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="30"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/RFrczL47/git.png" alt="git" width="35" height="35"/></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/13sCk6yV/npm.png" alt="npm" width="30" height="35"/></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="30" height="35"/></a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="mysql" width="30" height="35"/></a>
+
+
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="35"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mysql" width="30" height="35"/></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="mysql" width="30" height="35"/></a>
+
+
+
 
 
 
